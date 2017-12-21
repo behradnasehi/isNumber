@@ -8,6 +8,9 @@ function isNumberKey(evt) {
     var charCode = (evt.which) ? evt.which : evt.keyCode;
     
     /*
+        https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes
+
+    
     Key    |Code 
     ------------
     delete | 46
